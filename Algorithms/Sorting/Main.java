@@ -14,8 +14,9 @@ public class Main {
         // BubbleSort sort = new BubbleSort();
         // sort.bubbleSort(arr);
 
-        MergeSort sort = new MergeSort();
-        sort.mergeSort(arr, 0, arr.length - 1);
+        // int n = arr.length-1;
+        // MergeSort op = new MergeSort();
+        // op.sort(arr, 0, n);
 
 
         for (int i : arr) {
